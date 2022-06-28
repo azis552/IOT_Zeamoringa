@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "396725991931",
+    "firebase_url": "https://coba-f5137-default-rtdb.firebaseio.com",
+    "project_id": "coba-f5137",
+    "storage_bucket": "coba-f5137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396725991931:android:02bfbf2afb03fbc262335e",
+        "android_client_info": {
+          "package_name": "com.example.zeamoringa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396725991931-1e1hm69fue91glsd4ibca3dnpuc2npbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvkom3zk17DsRRfJ1c_y07IRzKuv1sFCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396725991931-1e1hm69fue91glsd4ibca3dnpuc2npbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396725991931:android:16c1174b3d9e6e9d62335e",
+        "android_client_info": {
+          "package_name": "com.example.zeamoringa1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396725991931-1e1hm69fue91glsd4ibca3dnpuc2npbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvkom3zk17DsRRfJ1c_y07IRzKuv1sFCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396725991931-1e1hm69fue91glsd4ibca3dnpuc2npbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
